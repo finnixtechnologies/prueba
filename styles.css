@@ -79,7 +79,7 @@ header nav ul li a:hover {
 
 /* Hero Section */
 .hero {
-    background-image: url('https://via.placeholder.com/1920x1080');
+    background-image: url('images/hero-background.jpg');
     background-size: cover;
     background-position: center;
     height: 100vh;
