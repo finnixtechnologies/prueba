@@ -403,3 +403,14 @@ footer p {
     }
 }
 
+.whatsapp {
+    margin-top: 10px;
+}
+
+.whatsapp a {
+    color: #25D366;
+    text-decoration: none;
+}
+
+.whatsapp a:hover {
+    color: #128C7E;
